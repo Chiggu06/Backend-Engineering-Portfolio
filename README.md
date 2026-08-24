@@ -52,18 +52,18 @@ My approach to software is defined by my professional experience in high-stakes 
 * **The Solution:** Uses **Pandas** to process CSV user databases and triggers personalized email/SMS updates based on real-time meteorological data from **OpenWeatherMap**.
 * **Skills:** Data-Math, CSV Processing, SMTP Networking.
 
-### 🔐 [Secure Password Utility](./password_manager)
-**Security / UI Design**
-* **The Problem:** Managing credentials securely without cloud reliance.
-* **The Solution:** A desktop application with **Tkinter** and JSON-backed storage. It focuses on secure local serialization and error handling for data integrity.
-* **Skills:** GUI Development, JSON Serialization, Data Validation.
-
 ---
 
 ## 🔐 Security & Best Practices
 * **Environment Variables:** All sensitive credentials (API keys, tokens, emails) are strictly managed via `.env` files and are never committed to version control.
 * **Clean Code:** Follows PEP 8 standards for readability and modularity.
 * **Error Handling:** Implemented robust `try/except` blocks to manage API rate limits, missing JSON keys, and network latency.
+
+---
+
+## 🔧 Currently Building
+- URL Shortener API (FastAPI, PostgreSQL, Redis, Docker)
+- Learning: FastAPI · PostgreSQL · Redis · System Design
 
 ---
 
