@@ -22,9 +22,8 @@ Welcome to my professional portfolio. This repository highlights my expertise in
 
 ## 🏛️ Engineering Foundation: LRDE Experience
 My approach to software is defined by my professional experience in high-stakes radar engineering environments:
-* **Algorithmic Optimization:** Solved complex tiling problems for phased array antenna networks using **Dynamic Programming (Accelerated Cross Entropy)** and **Backtracking**, resulting in a **15% reduction** in computation time.
-* **System Reliability:** Designed and debugged Python software components for internal tools, ensuring 100% uptime for production-level operational automation.
-
+* **Algorithmic Optimization:** Solved complex tiling problems for phased array antenna networks using **Dynamic Programming (Accelerated Cross Entropy)** and **Backtracking**.
+* **System Reliability:** Designed and debugged Python software components for internal tools.
 ---
 
 ## 🚀 Featured Projects
